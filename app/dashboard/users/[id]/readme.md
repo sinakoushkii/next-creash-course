@@ -1,0 +1,2 @@
+this is a dynamic route. dynamic routes are create by a folder with [] and a page.jsx/tsx file 
+in our case we want see each user details a page and find that user by its id to be able to do that i have created a folder with [id] in the users folder
